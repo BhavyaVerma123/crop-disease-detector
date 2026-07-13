@@ -24,12 +24,12 @@ Follow these simple steps to get the project running locally on your machine:
    git clone [https://github.com/holdmy-awm/crop-disease-detector.git](https://github.com/holdmy-awm/crop-disease-detector.git)
    cd crop-disease-detector
 Install the dependencies:
-
-Bash
+```bash
 pip install -r requirements.txt
+```
 Run the application:
-
-Bash
+```bash
 python app.py
+```
 Access the app:
 Open your browser and navigate to http://127.0.0.1:5000/
